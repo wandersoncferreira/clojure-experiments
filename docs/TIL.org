@@ -1,0 +1,3 @@
+* Today I Learned
+
+- TIL that you can define symbols with dots as long as you access them in a qualified manner: =my.ns/foo.bar=
