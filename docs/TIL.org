@@ -1,3 +1,5 @@
 * Today I Learned
 
-- TIL that you can define symbols with dots as long as you access them in a qualified manner: =my.ns/foo.bar=
+- define symbols with dots as long as you access them in a qualified manner: =my.ns/foo.bar=
+- =case= ultimately compiles to a single JVM tableswitch bytecode which is like an optimized =goto=
+- A class that implements =Counted= promises that it is a collection that implement a constant-time =count()=
